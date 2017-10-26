@@ -1,0 +1,1541 @@
+# Translation of Development (trunk) in Greek
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-11 22:28:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: wpGoogleMaps.php:4837
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: wpGoogleMaps.php:4340
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: wpGoogleMaps.php:4442
+msgid "Trash"
+msgstr "Κάδος"
+
+#: wpGoogleMaps.php:4463
+msgid "My Markers"
+msgstr "Τα σημεία μου"
+
+#: wpGoogleMaps.php:4487 wpGoogleMaps.php:5758
+msgid "Icon"
+msgstr "Εικόνα"
+
+#: wpGoogleMaps.php:4488
+msgid "Linked to"
+msgstr "Συνδεδεμένα μέ"
+
+#: wpGoogleMaps.php:4490 wpGoogleMaps.php:5076 wpGoogleMaps.php:5761
+#: wpGoogleMaps.php:5780
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: wpGoogleMaps.php:4491
+msgid "GPS"
+msgstr "GPS"
+
+#: wpGoogleMaps.php:4492
+msgid "Pic"
+msgstr "Εικόνα"
+
+#: wpGoogleMaps.php:4645
+msgid "Add custom icons, titles, descriptions, pictures and links to your markers with the"
+msgstr "Προσθήκη δικών σας εικόνων, τίτλων, περιγραφών, εικονιδίων και συνδέσμων σημείων με"
+
+#: wpGoogleMaps.php:4645 wpGoogleMaps.php:4646 wpGoogleMaps.php:5442
+#: wpGoogleMaps.php:5446
+msgid "Pro Edition"
+msgstr "Έκδοση Pro"
+
+#: wpGoogleMaps.php:4645
+msgid "of this plugin for just"
+msgstr "αυτού του plugin μόνο για"
+
+#: wpGoogleMaps.php:4646
+msgid "Purchase the Pro Edition"
+msgstr "Αγοράστε τη Pro 'Εκδοση"
+
+#: wpGoogleMaps.php:4646
+msgid "of WP Google Maps and save your markers to a CSV file!"
+msgstr "του WP Google Maps και αποθηκεύστε τα σημεία σας σε CSV αρχείο!"
+
+#: wpGoogleMaps.php:4671
+msgid "Please note"
+msgstr "Παρακαλώ προσοχή"
+
+#: wpGoogleMaps.php:4671
+msgid "We've noticed that you are using W3 Total Cache and that you have CDN enabled.<br /><br />In order for the markers to show up on your map, you need to add '<strong><em>{uploads_dir}/wp-google-maps*</strong></em>' to the '<strong>rejected files</strong>' list in the <a href='admin.php?page=w3tc_cdn#advanced'>CDN settings page</a> of W3 Total Cache"
+msgstr "Παρατηρήσαμε ότι χρησιμοποιείτε W3 Total Cache και ότι έχετε ενεργοποιημένο το CDN.<br /><br />Για να φαίνονται τα σημεία σας στο χάρτη, πρέπει να προσθέσετε '<strong><em>{uploads_dir}/wp-google-maps*</strong></em>' στη '<strong>rejected files</strong>' λίστα στις <a href='admin.php?page=w3tc_cdn#advanced'>ρυθμίσεις CDN</a> της συνολικής W3 Total Cache"
+
+#: wpGoogleMaps.php:4702
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: wpGoogleMaps.php:4704
+msgid "Directions"
+msgstr "Οδηγίες"
+
+#: wpGoogleMaps.php:4707
+msgid "Marker Listing Options"
+msgstr "Ρυθμίσεις λίστας σημείων"
+
+#: wpGoogleMaps.php:4708
+msgid "Pro Upgrade"
+msgstr "Αναβάθμιση σε Pro"
+
+#: wpGoogleMaps.php:4740
+msgid "Short code"
+msgstr "Συντομογραφία"
+
+#: wpGoogleMaps.php:4741
+msgid "copy this into your post or page to display the map"
+msgstr "αντιγράψτε αυτό στη δημοσίευση ή στη σελίδα σας για να προβάλετε το χάρτη"
+
+#: wpGoogleMaps.php:4744
+msgid "Map Name"
+msgstr "Όνομα Χάρτη"
+
+#: wpGoogleMaps.php:4755
+msgid "Set to 100% for a responsive map"
+msgstr "Ρυθμίστε 100% για χάρτη αλληλεπίδρασης"
+
+#: wpGoogleMaps.php:4765
+msgid "We recommend that you leave your height in PX. Depending on your theme, using % for the height may break your map."
+msgstr "Συστήνουμε να αφήσετε το ύψος σε PX. Ανάλογα το θέμα σας, χρησιμοποιόντας το %  για το ύψος μπορεί να χαλάσει το χάρτη σας."
+
+#: wpGoogleMaps.php:4770
+msgid "Zoom Level"
+msgstr "Επίπεδο Ζουμ"
+
+#: wpGoogleMaps.php:4776
+msgid "Map Alignment"
+msgstr "Ευθυγράμμιση χάρτη"
+
+#: wpGoogleMaps.php:4778
+msgid "Left"
+msgstr "Αριστερά"
+
+#: wpGoogleMaps.php:4779
+msgid "Center"
+msgstr "Κέντρο"
+
+#: wpGoogleMaps.php:4780
+msgid "Right"
+msgstr "Δεξιά"
+
+#: wpGoogleMaps.php:4781 wpGoogleMaps.php:5055 wpGoogleMaps.php:5280
+#: wpGoogleMaps.php:5339
+msgid "None"
+msgstr "Κανένα"
+
+#: wpGoogleMaps.php:4786
+msgid "Map type"
+msgstr "Τύπος Χάρτη"
+
+#: wpGoogleMaps.php:4865
+msgid "Enable Directions?"
+msgstr "Ενεργοποίηση οδηγιών"
+
+#: wpGoogleMaps.php:4874
+msgid "Directions Box Open by Default?"
+msgstr "Άνοιγμα οδηγιών από μόνο του;"
+
+#: wpGoogleMaps.php:4879
+msgid "Yes, on the left"
+msgstr "Ναί, στα αριστερά"
+
+#: wpGoogleMaps.php:4880
+msgid "Yes, on the right"
+msgstr "Ναί, στα δεξιά"
+
+#: wpGoogleMaps.php:4881
+msgid "Yes, above"
+msgstr "Ναί, από πάνω"
+
+#: wpGoogleMaps.php:4882
+msgid "Yes, below"
+msgstr "Ναί, από κάτω"
+
+#: wpGoogleMaps.php:4888
+msgid "Directions Box Width"
+msgstr "Πλάτος κουτιού οδηγιών"
+
+#: wpGoogleMaps.php:4902
+msgid "Enable Store Locator"
+msgstr "Ενεργοποίηση εντοπισμού καταστήματος"
+
+#: wpGoogleMaps.php:4910
+msgid "Restrict to country"
+msgstr "Περιορισμός στη Χώρα"
+
+#: wpGoogleMaps.php:4911
+msgid "Insert country TLD. For example, use DE for Germany."
+msgstr "Εισάγετε τη συντόμευση της χώρας(TLD). Για παράδειγμα, βάλτε GR για την Ελλάδα."
+
+#: wpGoogleMaps.php:4911
+msgid "Leave blank for no restrictions."
+msgstr "Αφήστε κενό για να μην έχετε περιορισμούς"
+
+#: wpGoogleMaps.php:4915
+msgid "Show distance in"
+msgstr "Προβολή απόστασης σε"
+
+#: wpGoogleMaps.php:4917
+msgid "Miles"
+msgstr "Μίλια"
+
+#: wpGoogleMaps.php:4918
+msgid "Kilometers"
+msgstr "Χιλιόμετρα"
+
+#: wpGoogleMaps.php:4923
+msgid "Query string"
+msgstr "Query string"
+
+#: wpGoogleMaps.php:4928
+msgid "Show bouncing icon"
+msgstr "Εμφάνιση κινούμενου εικονιδίου"
+
+#: wpGoogleMaps.php:4937
+msgid "View"
+msgstr "Προβολή"
+
+#: wpGoogleMaps.php:4937
+msgid "Store Locator Documentation"
+msgstr "Τεκμηρίωση Εντοπισμού Καταστήματος"
+
+#: wpGoogleMaps.php:4944
+msgid "Enable Bicycle Layer?"
+msgstr "Ενεργοποίηση εμφάνισης ποδηλάτων;"
+
+#: wpGoogleMaps.php:4952
+msgid "Enable Traffic Layer?"
+msgstr "Ενεργοποίηση εμφάνισης κίνησης;"
+
+#: wpGoogleMaps.php:4960
+msgid "Enable Public Transport Layer?"
+msgstr "Ενεργοποίηση εμφάνισης μεταφορικών μέσων;"
+
+#: wpGoogleMaps.php:4969
+msgid "Maximum Zoom Level"
+msgstr "Μέγιστο επίπεδο ζουμ"
+
+#: wpGoogleMaps.php:5009
+msgid "Default Marker Image"
+msgstr "Προεπιλεγμένη εικόνα σημείου"
+
+#: wpGoogleMaps.php:5010 wpGoogleMaps.php:5363 wpGoogleMaps.php:5367
+msgid "Upload Image"
+msgstr "Ανεβάστε εικόνα"
+
+#: wpGoogleMaps.php:5014
+msgid "Show User's Location?"
+msgstr "Εμφάνιση θέσης χρήστη;"
+
+#: wpGoogleMaps.php:5028
+msgid "KML/GeoRSS URL"
+msgstr "KML/GeoRSS URL"
+
+#: wpGoogleMaps.php:5030
+msgid "The KML/GeoRSS layer will over-ride most of your map settings"
+msgstr "Το KML/GeoRSS layer θα προσπεράσει όλες τις ρυθμίσεις που έχετε κάνει στο χάρτη"
+
+#: wpGoogleMaps.php:5034
+msgid "Fusion table ID"
+msgstr "Fusion table ID"
+
+#: wpGoogleMaps.php:5036
+msgid "Read data directly from your Fusion Table."
+msgstr "Διαβάστε απευθείας τα δεδομένα από το Fusion Table."
+
+#: wpGoogleMaps.php:5052
+msgid "List Markers"
+msgstr "Λίστα σημείων"
+
+#: wpGoogleMaps.php:5056
+msgid "Basic table"
+msgstr "Βασικός πίνακας"
+
+#: wpGoogleMaps.php:5057
+msgid "Advanced table with real time search and filtering"
+msgstr "Προηγμένος πίνακας με απευθείας αναζήτηση και φιλτράρισμα αποτελεσμάτων"
+
+#: wpGoogleMaps.php:5058 wpGoogleMaps.php:5129
+msgid "Carousel"
+msgstr "Carousel"
+
+#: wpGoogleMaps.php:5058
+msgid "beta"
+msgstr "δοκιμή"
+
+#: wpGoogleMaps.php:5064
+msgid "Filter by Category"
+msgstr "Φίλτρο ανά κατηγορία"
+
+#: wpGoogleMaps.php:5066
+msgid "Allow users to filter by category?"
+msgstr "Επιτρέψτε στους χρήστες να φιλτράρουν ανά κατηγορία;"
+
+#: wpGoogleMaps.php:5071
+msgid "Order markers by"
+msgstr "Ταξινόμιση σημείων κατά"
+
+#: wpGoogleMaps.php:5077 wpGoogleMaps.php:5360 wpGoogleMaps.php:5762
+#: wpGoogleMaps.php:5781
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: wpGoogleMaps.php:5081
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: wpGoogleMaps.php:5082
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: wpGoogleMaps.php:5094
+msgid "Move list inside map"
+msgstr "Μετακίνηση λίστας μέσα στο χάρτη"
+
+#: wpGoogleMaps.php:5096
+msgid "Move your marker list inside the map area"
+msgstr "Μετακίνηση σημείων μέσα στη περιοχή του χάρτη"
+
+#: wpGoogleMaps.php:5098
+msgid "Placement: "
+msgstr "Τοποθέτηση:"
+
+#: wpGoogleMaps.php:5100
+msgid "Top Center"
+msgstr "Επάνω κεντρικά"
+
+#: wpGoogleMaps.php:5101
+msgid "Top Left"
+msgstr "Επάνω αριστερά"
+
+#: wpGoogleMaps.php:5102
+msgid "Top Right"
+msgstr "Επάνω δεξιά"
+
+#: wpGoogleMaps.php:5103
+msgid "Left Top "
+msgstr "Αριστερά επάνω"
+
+#: wpGoogleMaps.php:5104
+msgid "Right Top"
+msgstr "Δεξιά επάνω"
+
+#: wpGoogleMaps.php:5105
+msgid "Left Center"
+msgstr "Αριστερά κεντρικά"
+
+#: wpGoogleMaps.php:5106
+msgid "Right Center"
+msgstr "Δεξιά κεντρικά"
+
+#: wpGoogleMaps.php:5107
+msgid "Left Bottom"
+msgstr "Αριστερά κάτω"
+
+#: wpGoogleMaps.php:5108
+msgid "Right Bottom"
+msgstr "Δεξιά κάτω"
+
+#: wpGoogleMaps.php:5109
+msgid "Bottom Center"
+msgstr "Κάτω κετρικά"
+
+#: wpGoogleMaps.php:5110
+msgid "Bottom Left"
+msgstr "Κάτω αριστερά"
+
+#: wpGoogleMaps.php:5111
+msgid "Bottom Right"
+msgstr "Κάτω δεξιά"
+
+#: wpGoogleMaps.php:5124
+msgid "Basic"
+msgstr "Βασικό"
+
+#: wpGoogleMaps.php:5125
+msgid "Show a basic list of your markers"
+msgstr "Εμφάνιση βασικής λίστας σημείων"
+
+#: wpGoogleMaps.php:5130
+msgid "Beautiful, responsive, mobile-friendly carousel marker listing"
+msgstr "Όμορφη, διαδραστική, mobile-friendly carousel λίστα σημείων"
+
+#: wpGoogleMaps.php:5134
+msgid "Tabular"
+msgstr "Πίνακας"
+
+#: wpGoogleMaps.php:5135
+msgid "Advanced, tabular marker listing functionality with real time filtering"
+msgstr "Προηγμένος πίνακας με απευθείας αναζήτηση και φιλτράρισμα αποτελεσμάτων"
+
+#: wpGoogleMaps.php:5249
+msgid "Save Map"
+msgstr "Αποθήκευση χάρτη"
+
+#: wpGoogleMaps.php:5252
+msgid "Tip: Use your mouse to change the layout of your map. When you have positioned the map to your desired location, press \"Save Map\" to keep your settings."
+msgstr "Συμβουλή: Χρησιμοποιήστε το ποντίκι σας για να αλλάξετε θέση στο χάρτη. Όταν θα είστε στην επιθυμητή θέση, πιέστε \"Αποθήκευση Χάρτη\" για να κρατήσετε τις ρυθμίσεις."
+
+#: wpGoogleMaps.php:5259 wpGoogleMaps.php:5267
+msgid "Markers"
+msgstr "Σημεία"
+
+#: wpGoogleMaps.php:5260 wpGoogleMaps.php:5320
+msgid "Advanced markers"
+msgstr "Προηγμένα σημεία"
+
+#: wpGoogleMaps.php:5261
+msgid "Polygon"
+msgstr "Πολύγωνα"
+
+#: wpGoogleMaps.php:5271 wpGoogleMaps.php:5330
+msgid "Address/GPS"
+msgstr "Διεύθυνση/GPS"
+
+#: wpGoogleMaps.php:5272
+msgid "Or right click on the map"
+msgstr "ή δεξί κλικ στο χάρτη"
+
+#: wpGoogleMaps.php:5277 wpGoogleMaps.php:5336
+msgid "Animation"
+msgstr "Animation"
+
+#: wpGoogleMaps.php:5281 wpGoogleMaps.php:5340
+msgid "Bounce"
+msgstr "Αναπήδηση"
+
+#: wpGoogleMaps.php:5282 wpGoogleMaps.php:5341
+msgid "Drop"
+msgstr "Πτώση"
+
+#: wpGoogleMaps.php:5288 wpGoogleMaps.php:5347
+msgid "InfoWindow open by default"
+msgstr "Παράθυρο πληροφοριών ανοιχτό από προεπιλογή"
+
+#: wpGoogleMaps.php:5298 wpGoogleMaps.php:5378
+msgid "Add Marker"
+msgstr "Προσθήκη σημείου"
+
+#: wpGoogleMaps.php:5298
+msgid "Adding"
+msgstr "Προσθήκη"
+
+#: wpGoogleMaps.php:5299
+msgid "Save Marker"
+msgstr "Αποθήκευση σημείου"
+
+#: wpGoogleMaps.php:5299
+msgid "Saving"
+msgstr "Αποθήκευση"
+
+#: wpGoogleMaps.php:5302
+msgid "Remember to save your marker"
+msgstr "Θυμηθείτε να αποθηκεύσετε το σημείο σας"
+
+#: wpGoogleMaps.php:5308
+msgid "Please add the current marker before trying to add another marker"
+msgstr "Παρακαλούμε προσθέστε το τρέχων σημείο πρίν δοκιμάστε να προσθέσετε κάποιο άλλο"
+
+#: wpGoogleMaps.php:5324
+msgid "Add advanced markers"
+msgstr "Προσθήκη προηγμένων σημείων"
+
+#: wpGoogleMaps.php:5324
+msgid "with the Pro version"
+msgstr "μαζί με τη Pro έκδοση"
+
+#: wpGoogleMaps.php:5362
+msgid "Pic URL"
+msgstr "URL εικόνας"
+
+#: wpGoogleMaps.php:5364
+msgid "Link URL"
+msgstr "Λίνκ URL"
+
+#: wpGoogleMaps.php:5366
+msgid "Custom Marker"
+msgstr "Προσαρμοσμένο Σημείο"
+
+#: wpGoogleMaps.php:5372
+msgid "Select"
+msgstr "Επιλογή"
+
+#: wpGoogleMaps.php:5390
+msgid "Add a New Polygon"
+msgstr "Προσθήκη νέου πολύγονου"
+
+#: wpGoogleMaps.php:5395
+msgid "Add a New Polyline"
+msgstr "Προσθήκη νέου πολύγραμμου"
+
+#: wpGoogleMaps.php:5407 wpGoogleMaps.php:5505
+msgid "The map could not load."
+msgstr "Ο χάρτης δε φορτώθηκε."
+
+#: wpGoogleMaps.php:5407
+msgid "This is normally caused by a conflict with another plugin or a JavaScript error that is preventing our plugin's Javascript from executing. Please try disable all plugins one by one and see if this problem persists."
+msgstr "Αυτό είναι φυσιολογικό και προκλήθηκε από κάποια διένεξη με κάποιο άλλο plugin ή JavaScript λάθος που εμποδίζει το plugin μας να εκτελεστεί.  Παρακαλώ δοκιμάστε να απενεργοποιήστε τα plugin ένα προς ένα για να δείτε αν το πρόβλημα επιμένει."
+
+#: wpGoogleMaps.php:5416
+msgid "Remember to save your map!"
+msgstr "Θυμηθείτε να αποθηκεύσετε το χάρτη σας!"
+
+#: wpGoogleMaps.php:5430
+msgid "Your Markers"
+msgstr "Τα σημεία σας"
+
+#: wpGoogleMaps.php:5437
+msgid "Add detailed information to your markers!"
+msgstr "Προσθέστε λεπτομέρεις στα σημεία σας!"
+
+#: wpGoogleMaps.php:5437 wpGoogleMaps.php:5441 wpGoogleMaps.php:5445
+msgid "Add custom markers to your map!"
+msgstr "Προσθήκε επεξεργασμένω σημείων στο χάρτη!"
+
+#: wpGoogleMaps.php:5438
+msgid "Add detailed information to your markers for only"
+msgstr "Προσθέστε αναλυτικές λεπτομέρειες στα σημεία σας μόνο"
+
+#: wpGoogleMaps.php:5438 wpGoogleMaps.php:5442 wpGoogleMaps.php:5446
+msgid "Click"
+msgstr "Κλίκ"
+
+#: wpGoogleMaps.php:5438 wpGoogleMaps.php:5442 wpGoogleMaps.php:5446
+msgid "here"
+msgstr "εδώ"
+
+#: wpGoogleMaps.php:5442
+msgid "Add different marker icons, or your own icons to make your map really stand out!"
+msgstr "Προσθέστε διαφορετικά εικονίδια στα σημεία σας ή τα δικά σας εικονίδια για να κάνετε το χάρτη σας καταπληκτικό!"
+
+#: wpGoogleMaps.php:5446
+msgid "Allow your visitors to get directions to your markers!"
+msgstr "Επιτρέψτε στους χρήστες σας να λάβουν οδηγίες για τα σημεία σας!"
+
+#: wpGoogleMaps.php:5452
+msgid "WP Google Maps encourages you to make use of the amazing icons created by Nicolas Mollet's Maps Icons Collection"
+msgstr "Το WP Google Maps σαν ενθαρρύνει να κάνετε χρήση των εικονιδίων του Nicolas Mollet's "
+
+#: wpGoogleMaps.php:5452
+msgid "and to credit him when doing so."
+msgstr "και να τον πιστώσετε όταν το κάνετε."
+
+#: wpGoogleMaps.php:5480
+msgid "Edit Marker Location"
+msgstr "Επεξεργασία τοποθεσίας σημείου"
+
+#: wpGoogleMaps.php:5489
+msgid "Marker Latitude"
+msgstr "Γεωγραφικό πλάτος σημείου"
+
+#: wpGoogleMaps.php:5493
+msgid "Marker Longitude"
+msgstr "Γεωγραφικό μήκος σημείου"
+
+#: wpGoogleMaps.php:5498
+msgid "Save Marker Location"
+msgstr "Αποθήκευση τοποθεσίας σημείου"
+
+#: wpGoogleMaps.php:5499
+msgid "Tip: Use your mouse to change the location of the marker. Simply click and drag it to your desired location."
+msgstr "Υπόδειξη: Χρησιμοποιήστε το ποντίκι σας για να αλλάξετε τη τοποθεσία του σημειού. Πιάστε το και μετακινήστε το στο επιθυμητό σημείο."
+
+#: wpGoogleMaps.php:5505
+msgid "This is normally caused by a conflict with another plugin or a JavaScript error that is preventing our plugin's Javascript from executing. Please try disable all plugins one by one and see if this problem persists. If it persists, please contact nick@wpgmaps.com for support."
+msgstr "Αυτό προκλήθηκε από κάποια σύγκρουση με κάποιο άλλο plugin ή  JavaScript  που εμποδίζει το δικό μας να εκτελεστεί. Δοκιμάστε να απενεργοποιήσετε ένα ένα το plugin για δείτε ποιο δημιουργει το πρόβλημα. Εάν συνεχίζει επικοινωνήστε με το nick@wpgmaps.com."
+
+#: wpGoogleMaps.php:5667
+msgid "There are too many markers to make use of the live edit function. The maximum amount for this functionality is 5000 markers. Anything more than that could crash your browser. In order to edit your markers, you would need to download the table in CSV format, edit it and re-upload it."
+msgstr "Υπάρχουν πολλά σημεία για να χρησιμοποιείσετε τη ζωντανή επεξεργασία. Το μέγιστο επιτρεπτό όριο είναι 5000 σημεία. Οτιδήποτε παραπάνω μπορεί να δημιουργήσει πρόβλημα στον περιηγητή σας. Για να επεξεργαστείτε τα σημεία σας, πρέπει να κατεβάσετε τον πίνακα σε CSV αρχείο, να το επεξεργαστείτε και να το ξανανεβάσετε."
+
+#: wpGoogleMaps.php:5719
+msgid "View this link"
+msgstr "Προβολή του λίνκ"
+
+#: wpGoogleMaps.php:5733 wpGoogleMaps.php:5734
+msgid "Edit this marker"
+msgstr "Επεξεργασία σημείου"
+
+#: wpGoogleMaps.php:5736
+msgid "Approve this marker"
+msgstr "Έγκριση σημείου"
+
+#: wpGoogleMaps.php:5738
+msgid "Delete this marker"
+msgstr "Διαγραφή σημείου"
+
+#: wpGoogleMaps.php:5763
+msgid "Image"
+msgstr "Εικόνα"
+
+#: wpGoogleMaps.php:5913
+msgid "The plugin directory does not have 'write' permissions. Please enable 'write' permissions (755) for "
+msgstr "Ο φάκελος του plugin δεν έχει δικαιώματα 'εγγραφής'. Παρακαλώ δώστε δικαιώματα 'εγγραφής' (755) για "
+
+#: wpGoogleMaps.php:5915
+msgid "in order for this plugin to work! Please see "
+msgstr "για να δουλέψει αυτό το plugin! Παρακαλώ δείτε "
+
+#: wpGoogleMaps.php:5919
+msgid "for help on how to do it."
+msgstr "για βοήθεια πως να το κάνετε."
+
+#: wpGoogleMaps.php:6360
+msgid "WP Google Maps does not have write permission to the marker location directory. This is required to store marker data. Please CHMOD the folder "
+msgstr "Το WP Google Maps δεν έχει δικαιώματα εγγραφής στο φάκελο σημείων. Αυτό απαιτείτε για να αποθηκεύσετε τα σημεία. Παρακαλώ δώστε δικαιώματα στο φάκελο "
+
+#: wpGoogleMaps.php:6360
+msgid " to 755 or 777, or change the directory in the Maps->Settings page. (Current file permissions are "
+msgstr "σε 755 ή 777 ή αλλάξτε φάκελο στο Χάρτες->Ρυθμίσεις. (Οι τρέχοντες ρυθμίσεις είναι "
+
+#: wpGoogleMaps.php:6371
+msgid "WP Google Maps Support"
+msgstr "Υποστήριξη WP Google Maps"
+
+#: wpGoogleMaps.php:6374
+msgid "Documentation"
+msgstr "Οδηγίες"
+
+#: wpGoogleMaps.php:6376
+msgid "Getting started? Read through some of these articles to help you along your way."
+msgstr "Ξεκινάτε; Διαβάστε μερικά από τα αρθρα για να βοηθηθείτε."
+
+#: wpGoogleMaps.php:6377
+msgid "Documentation:"
+msgstr "Οδηγίες:"
+
+#: wpGoogleMaps.php:6379
+msgid "Creating your first map"
+msgstr "Δημιουργόντας το πρώτο σας χάρτη"
+
+#: wpGoogleMaps.php:6380
+msgid "Using your map as a Widget"
+msgstr "Χρησιμοποιώντας το χάρτη σας σαν Widget"
+
+#: wpGoogleMaps.php:6381
+msgid "Changing the Google Maps language"
+msgstr "Αλλάζοντας τη γλώσσα του Google Maps"
+
+#: wpGoogleMaps.php:6382
+msgid "WP Google Maps Documentation"
+msgstr "Οδηγίες WP Google Maps"
+
+#: wpGoogleMaps.php:6382
+msgid "View all documentation."
+msgstr "Εμφάνιση όλων των οδηγιών."
+
+#: wpGoogleMaps.php:6386
+msgid "Troubleshooting"
+msgstr "Αντιμετώπιση προβλημάτων"
+
+#: wpGoogleMaps.php:6388
+msgid "WP Google Maps has a diverse and wide range of features which may, from time to time, run into conflicts with the thousands of themes and other plugins on the market."
+msgstr "To WP Google Maps έχει ένα ποικίλο και ευρύ φάσμα χαρακτηριστικών που μπορεί από καιρό σε καιρό να έχει διενέξεις με άλλα θέματα και πρόσθετα στην αγορά."
+
+#: wpGoogleMaps.php:6389
+msgid "Common issues:"
+msgstr "Συχνά προβλήματα:"
+
+#: wpGoogleMaps.php:6391
+msgid "My map is not showing on my website"
+msgstr "Ο χάρτης δεν εμφανίζεται στη σελίδα μου"
+
+#: wpGoogleMaps.php:6392
+msgid "My markers are not showing on my map in the front-end"
+msgstr "Τα σημεία μου δεν εμφανίζονται στο χάρτη"
+
+#: wpGoogleMaps.php:6393
+msgid "I'm getting jQuery errors showing on my website"
+msgstr "Λαμβάνω jQuery λάθη στη σελίδα μου"
+
+#: wpGoogleMaps.php:6399
+msgid "Still need help? Use one of these links below."
+msgstr "Χρειάζεστε κι άλλη βοήθεια; Χρησιμοποιείστε τα λινκ παρακάτω."
+
+#: wpGoogleMaps.php:6401
+msgid "Support forum"
+msgstr "Φόρουμ υποστήριξης"
+
+#: wpGoogleMaps.php:6402
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: base/classes/WPGM_templates.php:92
+msgid "Support Forum"
+msgstr "Φόρουμ Υποστήριξης"
+
+#: base/classes/WPGM_templates.php:92
+msgid "for quick and friendly help. We'll answer your request within 24hours."
+msgstr "για γρήγορη και φιλική βοήθεια. Θα απαντήσουμε στα ερωτήματα σας μεσα σε 24 ώρες."
+
+#: base/classes/WPGM_templates.php:95
+msgid "Feedback"
+msgstr "Ανατροφοδότηση"
+
+#: base/classes/WPGM_templates.php:96
+msgid "We need you to help us make this plugin better."
+msgstr "Θέλουμε να μας βοηθήσετε να κάνουμε αυτό το plugin καλύτερο."
+
+#: base/classes/WPGM_templates.php:96
+msgid "Send us your feedback"
+msgstr "Στείλτε μας τις εντυπώσεις σας"
+
+#: base/classes/WPGM_templates.php:96
+msgid "and we'll act on it as soon as humanly possible."
+msgstr "και θα δράσουμε όσο πιο γρήγορα γίνεται."
+
+#: base/classes/WPGM_templates.php:100
+msgid "OK! Let's start"
+msgstr "Εντάξει! Ας ξεκινήσουμε"
+
+#. #-#-#-#-#  tmp-wp-google-maps.pot (WP Google Maps 6.3.10)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  tmp-wp-google-maps.pot (WP Google Maps 6.3.10)  #-#-#-#-#
+#. Author of the plugin/theme
+#: base/classes/widget_module.class.php:7
+msgid "WP Google Maps"
+msgstr "WP Google Maps"
+
+#: base/classes/widget_module.class.php:42
+#: base/includes/wp-google-maps-polygons.php:35
+#: base/includes/wp-google-maps-polygons.php:118 wpGoogleMaps.php:4428
+#: wpGoogleMaps.php:4489 wpGoogleMaps.php:5075 wpGoogleMaps.php:5355
+#: wpGoogleMaps.php:5759 wpGoogleMaps.php:5778
+msgid "Title"
+msgstr "Τίτλος"
+
+#: base/includes/wp-google-maps-polygons.php:26
+msgid "Add a Polygon"
+msgstr "Προσθήκη πολύγονου"
+
+#: base/includes/wp-google-maps-polygons.php:32
+#: base/includes/wp-google-maps-polygons.php:115
+#: base/includes/wp-google-maps-polygons.php:541
+#: base/includes/wp-google-maps-polylines.php:31
+#: base/includes/wp-google-maps-polylines.php:112
+#: base/includes/wp-google-maps-polylines.php:555
+msgid "Name"
+msgstr "Όνομα"
+
+#: base/includes/wp-google-maps-polygons.php:35
+#: base/includes/wp-google-maps-polygons.php:53
+#: base/includes/wp-google-maps-polygons.php:56
+#: base/includes/wp-google-maps-polygons.php:59
+#: base/includes/wp-google-maps-polygons.php:118
+#: base/includes/wp-google-maps-polygons.php:136
+#: base/includes/wp-google-maps-polygons.php:139
+#: base/includes/wp-google-maps-polygons.php:142
+msgid "Pro version only"
+msgstr "Pro έκδοση μόνο"
+
+#: base/includes/wp-google-maps-polygons.php:35
+#: base/includes/wp-google-maps-polygons.php:118 wpGoogleMaps.php:4380
+msgid "Pro Version"
+msgstr "Pro έκδοση"
+
+#: base/includes/wp-google-maps-polygons.php:35
+#: base/includes/wp-google-maps-polygons.php:118
+msgid "Get the Pro add-on"
+msgstr "Λάβεται τη Pro έκδοση"
+
+#: base/includes/wp-google-maps-polygons.php:38
+#: base/includes/wp-google-maps-polygons.php:121 wpGoogleMaps.php:4493
+#: wpGoogleMaps.php:5764
+msgid "Link"
+msgstr "Σύνδεμος"
+
+#: base/includes/wp-google-maps-polygons.php:41
+#: base/includes/wp-google-maps-polygons.php:124
+#: base/includes/wp-google-maps-polylines.php:39
+#: base/includes/wp-google-maps-polylines.php:120
+msgid "Line Color"
+msgstr "Όνομα συνδέσμου"
+
+#: base/includes/wp-google-maps-polygons.php:44
+#: base/includes/wp-google-maps-polygons.php:127
+msgid "Line Opacity"
+msgstr "Διαφάνεια Συνδέσμου"
+
+#: base/includes/wp-google-maps-polygons.php:47
+#: base/includes/wp-google-maps-polygons.php:130
+msgid "Fill Color"
+msgstr "Χρώμα γεμίσματος"
+
+#: base/includes/wp-google-maps-polygons.php:50
+#: base/includes/wp-google-maps-polygons.php:133
+#: base/includes/wp-google-maps-polylines.php:47
+#: base/includes/wp-google-maps-polylines.php:128
+msgid "Opacity"
+msgstr "Διαφάνεια"
+
+#: base/includes/wp-google-maps-polygons.php:53
+#: base/includes/wp-google-maps-polygons.php:136
+msgid "On Hover Line Color"
+msgstr "Χρώμα επιλεγμένης γραμμής"
+
+#: base/includes/wp-google-maps-polygons.php:56
+#: base/includes/wp-google-maps-polygons.php:139
+msgid "On Hover Fill Color"
+msgstr "Χρώμα γεμίσματος επιλεγμένου"
+
+#: base/includes/wp-google-maps-polygons.php:59
+#: base/includes/wp-google-maps-polygons.php:142
+msgid "On Hover Opacity"
+msgstr "Διαφάνεια επιλεγμένου"
+
+#: base/includes/wp-google-maps-polygons.php:65
+msgid "Click on the map to insert a vertex."
+msgstr "Πατήστε στο χάρτη για να εισάγετε μια κορυφή"
+
+#: base/includes/wp-google-maps-polygons.php:66
+msgid "Click on a vertex to remove it."
+msgstr "Επιλέχτε μια κορυφή για να την αφαιρέσετε."
+
+#: base/includes/wp-google-maps-polygons.php:67
+msgid "Drag a vertex to move it."
+msgstr "Επιλέξτε μια κορυφή για να τη μετακινήσετε."
+
+#: base/includes/wp-google-maps-polygons.php:75
+#: base/includes/wp-google-maps-polygons.php:158
+msgid "Save Polygon"
+msgstr "Αποθήκευση πολύγωνου"
+
+#: base/includes/wp-google-maps-polygons.php:108
+msgid "Edit Polygon"
+msgstr "Επεξεργασία πολύγονου"
+
+#: base/includes/wp-google-maps-polygons.php:540
+#: base/includes/wp-google-maps-polylines.php:554 wpGoogleMaps.php:4427
+#: wpGoogleMaps.php:4486 wpGoogleMaps.php:5074 wpGoogleMaps.php:5480
+#: wpGoogleMaps.php:5757
+msgid "ID"
+msgstr "ID"
+
+#: base/includes/wp-google-maps-polygons.php:542
+#: base/includes/wp-google-maps-polylines.php:556 wpGoogleMaps.php:5765
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: base/includes/wp-google-maps-polygons.php:568
+#: base/includes/wp-google-maps-polylines.php:582 wpGoogleMaps.php:4448
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: base/includes/wp-google-maps-polygons.php:569
+msgid "Delete this polygon"
+msgstr "Διαγραφή πολύγονου"
+
+#: base/includes/wp-google-maps-polylines.php:25
+msgid "Add a Polyline"
+msgstr "Προσθήκη πολύγραμμου"
+
+#: base/includes/wp-google-maps-polylines.php:55
+#: base/includes/wp-google-maps-polylines.php:136
+msgid "Line Thickness"
+msgstr "Πάχος γραμμής"
+
+#: base/includes/wp-google-maps-polylines.php:74
+#: base/includes/wp-google-maps-polylines.php:155
+msgid "Save Polyline"
+msgstr "Αποθήκευση πολύγραμμου"
+
+#: base/includes/wp-google-maps-polylines.php:105
+msgid "Edit Polyline"
+msgstr "Επεξεργασία πολύγραμμου"
+
+#: base/includes/wp-google-maps-polylines.php:583
+msgid "Delete this polyline"
+msgstr "Διαγραφή πολύγραμμου"
+
+#: wpGoogleMaps.php:303
+msgid "My first map"
+msgstr "Ο πρώτος μου χάρτης"
+
+#: wpGoogleMaps.php:524
+msgid "<strong>WP Google Maps cannot find the directory it uses to save marker data to. Please confirm that <em>"
+msgstr "<strong>Το WP Google Maps δε μπορεί να βρεί το φάκελο που χρησιμοποεί για να αποθηκεύει τα σημεία. Παρακαλώ επιβεβαιώστε <em>"
+
+#: wpGoogleMaps.php:524
+msgid "</em>exists. Please also ensure that you assign file permissions of 755 (or 777) to this directory."
+msgstr "</em>υπάρχει ήδη. Παρακαλώ βεβαιοθήτε ότι έχετε δώσει δικαιώματα αρχείου 755 (ή 777) στο φάκελο."
+
+#: wpGoogleMaps.php:530
+msgid "Timthumb does not have 'write' permission for the cache directory. Please enable 'write' permissions (755 or 777) for "
+msgstr "Το Timthumb δεν έχει δικαιόματα 'εγγραφής' στη cache. Παρακαλώ ενεργοποιείστε τα δικαιώματα εγγραφής (755 ή 777) για "
+
+#: wpGoogleMaps.php:532
+msgid "in order for images to show up while using Timthumb. Please see "
+msgstr "για να φανούν οι εικόνες όταν χρησιμοποιείτε το Timthumb. Παρακαλώ δείτε "
+
+#: wpGoogleMaps.php:534 wpGoogleMaps.php:5917
+msgid "this page"
+msgstr "αυτή η σελίδα"
+
+#: wpGoogleMaps.php:536
+msgid "for help on how to do it. Alternatively, you can disable the use of Timthumb in Maps->Settings"
+msgstr "για βοήθεια πως να το κάνετε. Εναλλακτικά, μπορείτε να απενεργοποιείσετε τη χρήση του Timthumb στους Χάρτες->Ρυθμίσεις"
+
+#: wpGoogleMaps.php:2060 wpGoogleMaps.php:2201
+msgid "miles away"
+msgstr "μίλια μακρυά"
+
+#: wpGoogleMaps.php:2062 wpGoogleMaps.php:2203
+msgid "km away"
+msgstr "χλμ μακρυά"
+
+#: wpGoogleMaps.php:2370
+msgid "DOMDocument is not enabled"
+msgstr "Το DOMDocument δεν είναι ενεργοποιημένο"
+
+#: wpGoogleMaps.php:2482 wpGoogleMaps.php:2492 wpGoogleMaps.php:2497
+msgid "Could not save XML file"
+msgstr "Το XML αρχείο δε μπορεί να αποθηκευτεί"
+
+#: wpGoogleMaps.php:2861
+msgid "Error: The map ID"
+msgstr "Λάθος: Το ID του χάρτη"
+
+#: wpGoogleMaps.php:2861
+msgid "does not exist"
+msgstr "δεν υπάρχει"
+
+#: wpGoogleMaps.php:2958 wpGoogleMaps.php:4543
+msgid "ZIP / Address:"
+msgstr "Τ.Κ. / Διεύθυνση:"
+
+#: wpGoogleMaps.php:2971
+msgid "Radius"
+msgstr "Ακτίνα"
+
+#: wpGoogleMaps.php:2977
+msgid "1mi"
+msgstr "1mi"
+
+#: wpGoogleMaps.php:2978
+msgid "5mi"
+msgstr "5mi"
+
+#: wpGoogleMaps.php:2979
+msgid "10mi"
+msgstr "10mi"
+
+#: wpGoogleMaps.php:2980
+msgid "25mi"
+msgstr "25mi"
+
+#: wpGoogleMaps.php:2981
+msgid "50mi"
+msgstr "50mi"
+
+#: wpGoogleMaps.php:2982
+msgid "75mi"
+msgstr "75mi"
+
+#: wpGoogleMaps.php:2983
+msgid "100mi"
+msgstr "100mi"
+
+#: wpGoogleMaps.php:2984
+msgid "150mi"
+msgstr "150mi"
+
+#: wpGoogleMaps.php:2985
+msgid "200mi"
+msgstr "200mi"
+
+#: wpGoogleMaps.php:2986
+msgid "300mi"
+msgstr "300mi"
+
+#: wpGoogleMaps.php:2988
+msgid "1km"
+msgstr "1km"
+
+#: wpGoogleMaps.php:2989
+msgid "5km"
+msgstr "5km"
+
+#: wpGoogleMaps.php:2990
+msgid "10km"
+msgstr "10km"
+
+#: wpGoogleMaps.php:2991
+msgid "25km"
+msgstr "25km"
+
+#: wpGoogleMaps.php:2992
+msgid "50km"
+msgstr "50km"
+
+#: wpGoogleMaps.php:2993
+msgid "75km"
+msgstr "75km"
+
+#: wpGoogleMaps.php:2994
+msgid "100km"
+msgstr "100km"
+
+#: wpGoogleMaps.php:2995
+msgid "150km"
+msgstr "150km"
+
+#: wpGoogleMaps.php:2996
+msgid "200km"
+msgstr "200km"
+
+#: wpGoogleMaps.php:2997
+msgid "300km"
+msgstr "300km"
+
+#: wpGoogleMaps.php:3006 wpGoogleMaps.php:5078 wpGoogleMaps.php:5369
+#: wpGoogleMaps.php:5760 wpGoogleMaps.php:5779
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: wpGoogleMaps.php:3013
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: wpGoogleMaps.php:3156 wpGoogleMaps.php:3403 wpGoogleMaps.php:3581
+#: wpGoogleMaps.php:3765
+msgid "Your settings have been saved."
+msgstr "Οι ρυθμίσεις έχουν αποθηκευτεί."
+
+#: wpGoogleMaps.php:3180 wpGoogleMaps.php:3609
+msgid "Your marker location has been saved."
+msgstr "Η τοποθεσία του σημείου έχει αποθηκευτεί."
+
+#: wpGoogleMaps.php:3191 wpGoogleMaps.php:3246
+msgid "You cannot save a blank polygon"
+msgstr "Δε μπορείτε να αποθηκεύσετε ένα κενό πολύγωνο"
+
+#: wpGoogleMaps.php:3233 wpGoogleMaps.php:3640
+msgid "Your polygon has been created."
+msgstr "Το πολύφωνο δημιουργήθηκε"
+
+#: wpGoogleMaps.php:3289 wpGoogleMaps.php:3672
+msgid "Your polygon has been saved."
+msgstr "Το πολύγονο αποθηκεύτηκε."
+
+#: wpGoogleMaps.php:3301 wpGoogleMaps.php:3345
+msgid "You cannot save a blank polyline"
+msgstr "Δε μπορείτε να αποθηκεύσετε μια κενή polyline"
+
+#: wpGoogleMaps.php:3332 wpGoogleMaps.php:3703
+msgid "Your polyline has been created."
+msgstr "Το πολύγραμμο αποθηκεύτηκε."
+
+#: wpGoogleMaps.php:3374 wpGoogleMaps.php:3735
+msgid "Your polyline has been saved."
+msgstr "Το πολύγραμμο αποθηκεύτηκε."
+
+#: wpGoogleMaps.php:3436 wpGoogleMaps.php:3440
+msgid "Thank you for your feedback!"
+msgstr "Ευχαριστούμε για τη κριτική σας!"
+
+#: wpGoogleMaps.php:3784 wpGoogleMaps.php:4074
+msgid "Maps"
+msgstr "Χάρτες"
+
+#: wpGoogleMaps.php:3786
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: wpGoogleMaps.php:3787 wpGoogleMaps.php:4077
+msgid "Advanced"
+msgstr "Προχωρημένα"
+
+#: wpGoogleMaps.php:3788
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: wpGoogleMaps.php:3789 wpGoogleMaps.php:6397
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: wpGoogleMaps.php:3808 wpGoogleMaps.php:3908
+msgid "Experiencing problems with the plugin?"
+msgstr "Αντιμετωπίζετε προβλήματα με το plugin;"
+
+#: wpGoogleMaps.php:3808 wpGoogleMaps.php:3908
+msgid "See the troubleshooting manual."
+msgstr "Δείτε το ενγχειρίδιο επίλυσης προβλημάτων."
+
+#: wpGoogleMaps.php:3808
+msgid "Or ask a question on our "
+msgstr "Ή κάντε μια ερώτηση στο"
+
+#: wpGoogleMaps.php:3808
+msgid "Support forum."
+msgstr "Φόρουμ υποστήριξης."
+
+#: wpGoogleMaps.php:3815
+msgid "There was a problem deleting the map."
+msgstr "Υπήρξε ένα πρόβλημα κατά τη διαγραφή του χάρτη."
+
+#: wpGoogleMaps.php:3819
+msgid "Delete your map"
+msgstr "Διαγραφή χάρτη"
+
+#: wpGoogleMaps.php:3819
+msgid "Are you sure you want to delete the map"
+msgstr "Είστε σίγουροι για τη διαγραφή του χάρτη"
+
+#: wpGoogleMaps.php:3819 wpGoogleMaps.php:3921 wpGoogleMaps.php:4868
+#: wpGoogleMaps.php:4904 wpGoogleMaps.php:4930 wpGoogleMaps.php:4946
+#: wpGoogleMaps.php:4954 wpGoogleMaps.php:4962 wpGoogleMaps.php:5017
+#: wpGoogleMaps.php:5292 wpGoogleMaps.php:5351
+msgid "Yes"
+msgstr "Ναί"
+
+#: wpGoogleMaps.php:3819 wpGoogleMaps.php:3921 wpGoogleMaps.php:4867
+#: wpGoogleMaps.php:4878 wpGoogleMaps.php:4905 wpGoogleMaps.php:4931
+#: wpGoogleMaps.php:4947 wpGoogleMaps.php:4955 wpGoogleMaps.php:4963
+#: wpGoogleMaps.php:5016 wpGoogleMaps.php:5291 wpGoogleMaps.php:5350
+msgid "No"
+msgstr "Όχι"
+
+#: wpGoogleMaps.php:3828
+msgid "There was a problem duplicating the map."
+msgstr "Υπήρξε πρόβλημα κατά την κλωνοποίηση του χάρτη."
+
+#: wpGoogleMaps.php:3917
+msgid "There was a problem deleting the marker."
+msgstr "Υπήρξε πρόβλημα κατά τη διαγραφή του σημείου."
+
+#: wpGoogleMaps.php:3921
+msgid "Delete Marker"
+msgstr "Διαγραφή σημείου"
+
+#: wpGoogleMaps.php:3921
+msgid "Are you sure you want to delete this marker:"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε το σημείο:"
+
+#: wpGoogleMaps.php:3960
+msgid "WP Google Map Settings"
+msgstr "Ρυθμίσεις WP Google Map"
+
+#: wpGoogleMaps.php:4052 wpGoogleMaps.php:6357
+msgid "This folder does not exist. Please create it."
+msgstr "Ο φάκελος δεν υπάρχει. Παρακαλώ δημιουργείστε τον."
+
+#: wpGoogleMaps.php:4055
+msgid "File Permissions:"
+msgstr "Δικαιώματα αρχείου:"
+
+#: wpGoogleMaps.php:4055
+msgid " - The plugin does not have write access to this folder. Please CHMOD this folder to 755 or 777, or change the location"
+msgstr " - Το plugin δεν έχει δικαιώματα εγγραφής στο φάκελο. Παρακαλώ αλλάξτε τα δικαιώματα του φακέλου σε 755 ή 777 ή αλλάξτε τοποθεσία"
+
+#: wpGoogleMaps.php:4075
+msgid "InfoWindows"
+msgstr "Παράθυρο πληροφοριών"
+
+#: wpGoogleMaps.php:4076
+msgid "Marker Listing"
+msgstr "Λίστα σημείων"
+
+#: wpGoogleMaps.php:4078
+msgid "Error Log"
+msgstr "Αρχείο λαθών"
+
+#: wpGoogleMaps.php:4081 wpGoogleMaps.php:4697
+msgid "Map Settings"
+msgstr "Ρυθμίσεις χάρτη"
+
+#: wpGoogleMaps.php:4084
+msgid "General Map Settings"
+msgstr "Γενικές ρυθμίσεις χάρτη"
+
+#: wpGoogleMaps.php:4086
+msgid "Disable StreetView"
+msgstr "Απενεργοποίηση StreetView"
+
+#: wpGoogleMaps.php:4087
+msgid "Disable Zoom Controls"
+msgstr "Απενεργοποίηση των Zoom Controls"
+
+#: wpGoogleMaps.php:4088
+msgid "Disable Pan Controls"
+msgstr "Απενεργοποίηση των Pan Controls"
+
+#: wpGoogleMaps.php:4089
+msgid "Disable Map Type Controls"
+msgstr "Απενεργοποίηση των Map Type Controls"
+
+#: wpGoogleMaps.php:4090
+msgid "Disable Mouse Wheel Zoom"
+msgstr "Απενεργοποίηση του Mouse Wheel Zoom"
+
+#: wpGoogleMaps.php:4091
+msgid "Disable Mouse Dragging"
+msgstr "Απενεργοποίηση του Mouse Dragging"
+
+#: wpGoogleMaps.php:4092
+msgid "Disable Mouse Double Click Zooming"
+msgstr "Απενεργοποίηση του Mouse Double Click Zooming"
+
+#: wpGoogleMaps.php:4097
+msgid "Troubleshooting Options"
+msgstr "Αντιμετώπιση προβλημάτων"
+
+#: wpGoogleMaps.php:4103
+msgid "Use Google Maps API"
+msgstr "Χρήση Google Maps API"
+
+#: wpGoogleMaps.php:4114
+msgid "Lowest level of access to the map editor"
+msgstr "Χαμηλότερο επίπεδο πρόσβασης στο πρόγραμμα επεξεργασίας του χάρτη"
+
+#: wpGoogleMaps.php:4131
+msgid "Marker InfoWindow Settings"
+msgstr "Ρυθμίσεις παραθύρου πληροφοριών σημείου"
+
+#: wpGoogleMaps.php:4134
+msgid "Open Marker InfoWindows by"
+msgstr "Άνοιγμα του παράθυρου σημείων από"
+
+#: wpGoogleMaps.php:4143
+msgid "Marker Listing Settings"
+msgstr "Ρυθμίσεις λίστας σημείων"
+
+#: wpGoogleMaps.php:4144
+msgid "Changing these settings will alter the way the marker list appears on your website."
+msgstr "Αλλάζοντας αυτές τις ρυθμίσεις θα αλλάξει των τρόπο που εμφανίζονται τα σημεία στο χάρτη."
+
+#: wpGoogleMaps.php:4154
+msgid "Advanced Marker Listing"
+msgstr "Προηγμένες ρυθμίσεις λίστας σημείων"
+
+#: wpGoogleMaps.php:4157
+msgid "Column settings"
+msgstr "Ρυθμίσεις στήλης"
+
+#: wpGoogleMaps.php:4159
+msgid "Hide the Icon column"
+msgstr "Απόκρυψη εικονιδίου στήλης"
+
+#: wpGoogleMaps.php:4160
+msgid "Hide the Title column"
+msgstr "Απόκρυψη τίτλου στήλης"
+
+#: wpGoogleMaps.php:4161
+msgid "Hide the Address column"
+msgstr "Απόκρηψη διεύθυνσης στήλης"
+
+#: wpGoogleMaps.php:4162
+msgid "Hide the Category column"
+msgstr "Απόκρυψη κατηγορίας στήλης"
+
+#: wpGoogleMaps.php:4163
+msgid "Hide the Description column"
+msgstr "Απόκρυψη περιγραφής στήλης"
+
+#: wpGoogleMaps.php:4169
+msgid "Carousel Marker Listing"
+msgstr "Carousel Λίστας σημείων"
+
+#: wpGoogleMaps.php:4172
+msgid "Theme selection"
+msgstr "Επιλογή θέματος"
+
+#: wpGoogleMaps.php:4175
+msgid "Sky"
+msgstr "Ουρανός"
+
+#: wpGoogleMaps.php:4176
+msgid "Sun"
+msgstr "Ήλιος"
+
+#: wpGoogleMaps.php:4177
+msgid "Earth"
+msgstr "Γή"
+
+#: wpGoogleMaps.php:4178
+msgid "Monotone"
+msgstr "Μονότονο"
+
+#: wpGoogleMaps.php:4179
+msgid "PinkPurple"
+msgstr "Ροζ-Μωβ"
+
+#: wpGoogleMaps.php:4180
+msgid "White"
+msgstr "Λευκό"
+
+#: wpGoogleMaps.php:4181
+msgid "Black"
+msgstr "Μαύρο"
+
+#: wpGoogleMaps.php:4186
+msgid "Carousel settings"
+msgstr "Ρυθμίσεις Carousel"
+
+#: wpGoogleMaps.php:4188
+msgid "Hide the Image"
+msgstr "Απόκρυψη εικόνας"
+
+#: wpGoogleMaps.php:4189
+msgid "Hide the Title"
+msgstr "Απόκρυψη τίτλου"
+
+#: wpGoogleMaps.php:4190
+msgid "Hide the Marker Icon"
+msgstr "Απόκρυψη εικόνας σημείου"
+
+#: wpGoogleMaps.php:4191
+msgid "Hide the Address"
+msgstr "Απόκρυψη διέυθυνσης"
+
+#: wpGoogleMaps.php:4192
+msgid "Hide the Description"
+msgstr "Απόκρυψη περιγραφής"
+
+#: wpGoogleMaps.php:4193
+msgid "Hide the Marker Link"
+msgstr "Απόκρυψη λίνκ σημείου"
+
+#: wpGoogleMaps.php:4194
+msgid "Hide the Directions Link"
+msgstr "Απόκρυψη οδηγιών λίνκ"
+
+#: wpGoogleMaps.php:4195
+msgid "Resize Images with Timthumb"
+msgstr "Αλλαγή μεγέθους εικόνας με το Timthumb"
+
+#: wpGoogleMaps.php:4196
+msgid "Enable lazyload of images"
+msgstr "Ενεργοποίηση lazyload των εικόνων"
+
+#: wpGoogleMaps.php:4197
+msgid "Enable autoheight"
+msgstr "Ενεργοποίηση αυτόματης ρύθμισης ύψους εικόνας"
+
+#: wpGoogleMaps.php:4198
+msgid "Enable pagination"
+msgstr "Ενεργοποίηση σελιδοποίησης"
+
+#: wpGoogleMaps.php:4199
+msgid "Enable navigation"
+msgstr "Ενεργοποίηση πλοήγησης"
+
+#: wpGoogleMaps.php:4200
+msgid "Items"
+msgstr "Αντικείμενα"
+
+#: wpGoogleMaps.php:4201
+msgid "Autoplay after x milliseconds (1000 = 1 second)"
+msgstr "Αυτόματη αναπαραγωγή μετά από  x milliseconds (1000 = 1 second)"
+
+#: wpGoogleMaps.php:4208 wpGoogleMaps.php:4706
+msgid "Advanced Settings"
+msgstr "Προηγμένες Ρυθμίσεις"
+
+#: wpGoogleMaps.php:4241
+msgid "Marker Data Location"
+msgstr "Αποθήκευση δεδομένων σημείων"
+
+#: wpGoogleMaps.php:4244
+msgid "Pull marker data from"
+msgstr "Τραβήξτε τα δεδομένα σημείων από"
+
+#: wpGoogleMaps.php:4246
+msgid "Database (Great for small amounts of markers)"
+msgstr "Βάση δεδομένων (Ιδανική για μικρό αριθμό σημείων)"
+
+#: wpGoogleMaps.php:4247
+msgid "XML File  (Great for large amounts of markers)"
+msgstr "XML αρχείο  (Ιδανικό για μεγάλο αριθμό σημείων)"
+
+#: wpGoogleMaps.php:4250
+msgid "We suggest that you change the two fields below ONLY if you are experiencing issues when trying to save the marker XML files."
+msgstr "Σας προτείνουμε να αλλάξετε τα δύο παρακάτω πεδία ΜΟΝΟ εάν αντιμετωπίζετε προβλήματα όταν προσπαθείτε να αποθηκεύσετε τα αρχεία σημείων σε XML."
+
+#: wpGoogleMaps.php:4221 wpGoogleMaps.php:4252
+msgid "Marker data XML directory"
+msgstr "Κατάλογος σημείων δεδομένων XML"
+
+#: wpGoogleMaps.php:4225 wpGoogleMaps.php:4235 wpGoogleMaps.php:4256
+#: wpGoogleMaps.php:4266
+msgid "You can use the following"
+msgstr "Μπορείτε να χρησιμοποιείσετε τα παρακάτω"
+
+#: wpGoogleMaps.php:4226 wpGoogleMaps.php:4236 wpGoogleMaps.php:4257
+#: wpGoogleMaps.php:4267
+msgid "Currently using"
+msgstr "Χρησιμοποιείτε τώρα"
+
+#: wpGoogleMaps.php:4230 wpGoogleMaps.php:4261
+msgid "Marker data XML URL"
+msgstr "Διεύθυνση σημείων δεδομένων XML"
+
+#: wpGoogleMaps.php:4271 wpGoogleMaps.php:4274
+msgid "Custom CSS"
+msgstr "Επεξεργασμένο CSS"
+
+#: wpGoogleMaps.php:4287
+msgid "WP Google Maps Error log"
+msgstr "Αρχείο λαθών WP Google Maps"
+
+#: wpGoogleMaps.php:4288
+msgid "Having issues? Perhaps something below can give you a clue as to what's wrong. Alternatively, email this through to nick@wpgmaps.com for help!"
+msgstr "Έχετε θέματα; Ίσως παρακάτω να βρείτε κάποια στοιχεία που να σας βοηθήσουν. Αλλιώς στείλετε email στο nick@wpgmaps.com για βοήθεια!"
+
+#: wpGoogleMaps.php:4295
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: wpGoogleMaps.php:4358 wpGoogleMaps.php:4379
+msgid "My Maps"
+msgstr "Οι χάρτες μου"
+
+#: wpGoogleMaps.php:4358 wpGoogleMaps.php:4463
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: wpGoogleMaps.php:4380
+msgid "Create unlimited maps"
+msgstr "Δημιουργεία απεριόριστων χαρτών"
+
+#: wpGoogleMaps.php:4380
+msgid "with the"
+msgstr "μαζί με"
+
+#: wpGoogleMaps.php:4380
+msgid "of WP Google Maps for only"
+msgstr "για το WP Google Maps μόνο"
+
+#: wpGoogleMaps.php:4401 wpGoogleMaps.php:4466
+msgid "Problems with the plugin? See the troubleshooting manual."
+msgstr "Προβλήματα με το Plugin; Δείτε το ενγχειρίδιο επίλυσης προβλημάτων"
+
+#: wpGoogleMaps.php:4429 wpGoogleMaps.php:4748
+msgid "Width"
+msgstr "Πλάτος"
+
+#: wpGoogleMaps.php:4430 wpGoogleMaps.php:4760
+msgid "Height"
+msgstr "Ύψος"
+
+#: wpGoogleMaps.php:4431
+msgid "Type"
+msgstr "Τύπος"
+
+#: wpGoogleMaps.php:4437 wpGoogleMaps.php:4788
+msgid "Roadmap"
+msgstr "Οδικός Χάρτης"
+
+#: wpGoogleMaps.php:4438 wpGoogleMaps.php:4789
+msgid "Satellite"
+msgstr "Δορυφόρος"
+
+#: wpGoogleMaps.php:4439 wpGoogleMaps.php:4790
+msgid "Hybrid"
+msgstr "Υβριδικός"
+
+#: wpGoogleMaps.php:4440 wpGoogleMaps.php:4791
+msgid "Terrain"
+msgstr "Εδαφικός"
+
+#: base/classes/WPGM_templates.php:13
+msgid "Welcome to"
+msgstr "Καλώς ήλθατε"
+
+#: base/classes/WPGM_templates.php:15
+msgid "Amazing maps. Simple interface. Powerful functionality. World Class Support."
+msgstr "Καταπληκτικοί χάρτες. Απλό μενού. Μεγάλες Δυνατότητες. Παγκόσμια υποστήριξη."
+
+#: base/classes/WPGM_templates.php:17
+msgid "What's new?"
+msgstr "Τι νέο υπάρχει;"
+
+#: base/classes/WPGM_templates.php:21 wpGoogleMaps.php:4705
+msgid "Store Locator"
+msgstr "Εντοπισμός καταστήματος"
+
+#: base/classes/WPGM_templates.php:22
+msgid "Let users search for products, branches and stores near them"
+msgstr "Αφήστε τους χρήστες να ψαχνουν για προϊόντα και καταστήματα που βρίσκονται δίπλα τους"
+
+#: base/classes/WPGM_templates.php:26 wpGoogleMaps.php:5389
+msgid "Polygons"
+msgstr "Πολύγονα"
+
+#: base/classes/WPGM_templates.php:27
+msgid "Create service areas or coverage maps with polygons"
+msgstr "Δημιουργήστε περιοχές εξυπηρέτησης με πολύγονα"
+
+#: base/classes/WPGM_templates.php:31 wpGoogleMaps.php:5262
+#: wpGoogleMaps.php:5394
+msgid "Polylines"
+msgstr "Πολυγραμμές"
+
+#: base/classes/WPGM_templates.php:32
+msgid "Create custom routes or outlines using polylines"
+msgstr "Δημιουργήστε προσαρμοσμένα δρομολόγια με πολύγραμμα"
+
+#: base/classes/WPGM_templates.php:44
+msgid "How did you find out about us?"
+msgstr "Πως μάθατε για εμάς;"
+
+#: base/classes/WPGM_templates.php:51
+msgid "WordPress.org plugin repository"
+msgstr "WordPress.org plugin repository"
+
+#: base/classes/WPGM_templates.php:52
+msgid "What search term did you use?"
+msgstr "Τι όρο αναζήτησης χρησιμοποιείσατε;"
+
+#: base/classes/WPGM_templates.php:56
+msgid "Google or other search engine"
+msgstr "Το Google ή άλλη μηχανή"
+
+#: base/classes/WPGM_templates.php:60
+msgid "Friend recommendation"
+msgstr "Σύσταση από φίλο"
+
+#: base/classes/WPGM_templates.php:64
+msgid "Other"
+msgstr "Άλλο"
+
+#: base/classes/WPGM_templates.php:65
+msgid "Please explain"
+msgstr "Παρακαλώ εξηγείστε"
+
+#: base/classes/WPGM_templates.php:87
+msgid "New to WP Google Maps?"
+msgstr "Νέος στο WP Google Maps;"
+
+#: base/classes/WPGM_templates.php:88
+msgid "You may want to"
+msgstr "Μπορεί να θέλεις να"
+
+#: base/classes/WPGM_templates.php:88
+msgid "review our documentation"
+msgstr "διαβάσεις τις οδηγίες"
+
+#: base/classes/WPGM_templates.php:88
+msgid "before you get started. If you're a tech-savvy individual, you may skip this step."
+msgstr "πριν ξεκινήσεις. Εαν είσαι μανιακός της τεχνολογίας, μπορεί να θέλεις να προσπεράσεις αυτό το βήμα."
+
+#: base/classes/WPGM_templates.php:91
+msgid "Help me!"
+msgstr "Βοήθησε με!"
+
+#: base/classes/WPGM_templates.php:92
+msgid "Visit our"
+msgstr "Επισκευθείτε μας"
